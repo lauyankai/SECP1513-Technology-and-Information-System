@@ -1,1 +1,1 @@
-# SECP1513-Technology-and-Information-Systemati
+# SECP1513-Technology-and-Information-System
