@@ -1,1 +1,1 @@
-# SECP1513-Technology-and-Information-System
+# SECP1513 Technology and Information System
