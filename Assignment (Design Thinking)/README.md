@@ -1,0 +1,7 @@
+## Assignment (Design Thinking)
+From the project, I learnt the importance of collaborative work in groups for producing a comprehensive report, video, and presentation. Design thinking, a critical process in problem-solving through collaboration and innovation, highlighted the significance of skills such as teamwork, problem-solving, communication, analysis, creativity, and influencing others in today's workforce. The course also stressed the necessity of documenting the design thinking process, covering empathy, definition, ideation, prototyping, and testing.
+
+Click <a href="index.html">HERE!</a> to download my report file in PDF. 
+
+#### Reflection
+My goal is to become a skilled and innovative Data Engineer in the future. I hope to apply what I did learn during my studies and develop solutions for real-life problems and challenges. Design thinking influences my goal in thinking solutions and becoming a creative problem-solver. It allows me to learn and refine solutions creatively while collaborating with others. To improve my potential in industry, I’ll master programming skills, attend workshops, participate in hackathon, and become an outstanding student amongst others.
