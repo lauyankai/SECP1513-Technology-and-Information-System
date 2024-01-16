@@ -16,3 +16,6 @@ Click <a href="https://github.com/lauyankai/Technology_and_Information_System/tr
 
 ### Assignment (Design Thinking)
 Click <a href="https://github.com/lauyankai/Technology_and_Information_System/tree/main/Assignment%20(Design%20Thinking)">**HERE!**</a> to redirect into the project.
+
+## Reflection 
+From the Technology and Information System course, I learned about information systems and technology's role in daily life and workplaces. The practical assignments, covering career development, UTMDigital project, academic visits, system development at Credence, and design thinking, provided hands-on experience and valuable insights, enhancing my knowledge in the field.
