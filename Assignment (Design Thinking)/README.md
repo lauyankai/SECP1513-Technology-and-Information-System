@@ -1,4 +1,5 @@
 ## Assignment (Design Thinking)
+<img align="left" width="225" src="https://raw.githubusercontent.com/lauyankai/Technology_and_Information_System/img/Design Thinking.png"/> 
 From the project, I learnt the importance of collaborative work in groups for producing a comprehensive report, video, and presentation. Design thinking, a critical process in problem-solving through collaboration and innovation, highlighted the significance of skills such as teamwork, problem-solving, communication, analysis, creativity, and influencing others in today's workforce. The course also stressed the necessity of documenting the design thinking process, covering empathy, definition, ideation, prototyping, and testing.
 
 Click <a href="https://github.com/lauyankai/Technology_and_Information_System/blob/main/Assignment%20(Design%20Thinking)/Design%20Thinking.pdf">**HERE!**</a> to download my report file in PDF.
