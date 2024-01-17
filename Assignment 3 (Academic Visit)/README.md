@@ -1,5 +1,7 @@
 ## Assignment 3 (Academic Visit to HUAWEI and PETRONAS)
+<img align="left" width="300" src="https://raw.githubusercontent.com/lauyankai/Technology_and_Information_System/main/img/Academic Visit.jpeg"/>
 On 17 November 2023, we visited Petronas Digital located at Menara ExxonMobil and HUAWEI Customer Solution Innovation Centre (CSIC) in Kuala Lumpur for industry insights. The PETRONAS visit broadened our understanding of a software engineer's pivotal role and the essential skills, including analytical skills and continuous learning, emphasized by Mr Roman Kvaska. At HUAWEI, we encountered cutting-edge technologies, expanding our comprehension of ICT and its impact on daily life. Despite the short and rushed nature of the visit, it proved highly informative. The overall experience was great and memorable, fostering a desire to explore more industries in similar visits in the future. A special thanks to our lecturer, Dr Aryati Bakri, for organising this insightful trip, and we look forward to exploring more industries in future visits.
+<div>&nbsp;</div><div>&nbsp;</div>
 
 Click <a href="https://github.com/lauyankai/Technology_and_Information_System/blob/main/Assignment%203%20(Academic%20Visit)/Industrial%20Visit%20PETRONAS%20_%20HUAWEI%20.pdf">**HERE!**</a> to download my report file in PDF.
 

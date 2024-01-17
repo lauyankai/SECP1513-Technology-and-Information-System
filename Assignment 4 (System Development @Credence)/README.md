@@ -1,6 +1,7 @@
 ## Assignment 4 (System Development @Credence)
-
+<img align="left" width="300" src="https://raw.githubusercontent.com/lauyankai/Technology_and_Information_System/main/img/Credence.jpeg"/>
 On 28 December 2023, Credence (TM Subsidiary) had organised an industrial talk for UTM students, focusing on system development and careers in the analytic industry. The talk highlighted their unique workplace culture, promoting comfort for employees. It broadened our understanding of industry technologies, providing valuable career insights, tips, and motivation. Emphasising the importance of learning and exploring, the talk encouraged stepping out of comfort zones to build connections in the workplace. A special thanks to Dr Aryati Bakri, and Miss Qistina for facilitating this informative and memorable session, shaping our perspective for our future.
+<div>&nbsp;</div><div>&nbsp;</div>
 
 Click <a href="https://github.com/lauyankai/Technology_and_Information_System/blob/main/Assignment%204%20(System%20Development%20%40Credence)/System%20Development%20%40Credence%20(TM%20Subsidiary).pdf">**HERE!**</a> to download my report file in PDF. 
 
